@@ -16,5 +16,5 @@ Gestion d'une association de jeux de rôle avec participants, missions, rôles, 
 - `sql/data.sql` : données de test
 - `sql/full.sql` : tout-en-un
 
-## Diagramme E/A
-Voir `diagrammes/JDR-diag-entite-asso.jpg`
+## Modèle relationnel et Diagramme E/A
+Voir `diagrammes/JDR-model-relat` et `diagrammes/JDR-diag-entite-asso.jpg`
