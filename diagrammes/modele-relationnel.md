@@ -1,5 +1,5 @@
-Participant(**#id**, nom, prenom, motivation, experience , **nom_asso**, **code_a**)
-Partenaire(**#id1**,**#id2**,lien)
+-Participant(**#id**, nom, prenom, motivation, experience , **nom_asso**, **code_a**)
+-Partenaire(**#id1**,**#id2**,lien)
 Role( **#nom_role**)
 Ass_role_participant( **#id**, **#nom_role**, date)
 Mission(**#nom_mission**)
